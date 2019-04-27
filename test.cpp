@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 int main(){
-	cout << "hellow!" << endl;
+	cout << "hellow->test" << endl;
 
 	return 0;
 }
+//add
